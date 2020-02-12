@@ -1,0 +1,578 @@
+"Pathway","Total","Expected","Hits","Pval"
+"negative regulation of cell proliferation",585,2.7,12,0.00631
+"regulation of cell proliferation",1430,6.6,19,0.00631
+"cell proliferation",1900,8.79,22,0.00674
+"G1 phase of mitotic cell cycle",47,0.217,4,0.00882
+"enzyme linked receptor protein signaling pathway",1180,5.43,16,0.00882
+"myeloid cell differentiation",296,1.37,8,0.00882
+"G1 phase",49,0.226,4,0.00882
+"response to endogenous stimulus",1360,6.3,17,0.0114
+"positive regulation of cell proliferation",786,3.63,12,0.0166
+"response to organic substance",2500,11.5,24,0.0166
+"cell-cell junction organization",186,0.859,6,0.0166
+"regulation of signal transduction",2440,11.2,23,0.0233
+"developmental growth",290,1.34,7,0.0233
+"positive regulation of signal transduction",998,4.61,13,0.0302
+"regulation of myeloid cell differentiation",145,0.67,5,0.0302
+"positive regulation of metabolic process",2690,12.4,24,0.0311
+"transmembrane receptor protein tyrosine kinase signaling pathway",782,3.61,11,0.0387
+"response to chemical stimulus",3830,17.7,30,0.0387
+"cellular component assembly",1790,8.26,18,0.0407
+"negative regulation of apoptotic process",679,3.14,10,0.0407
+"negative regulation of apoptotic process",679,3.14,10,0.0407
+"negative regulation of programmed cell death",691,3.19,10,0.0443
+"mitochondrial membrane organization",47,0.217,3,0.0471
+"positive regulation of cellular metabolic process",2530,11.7,22,0.0538
+"response to oxidative stress",279,1.29,6,0.0587
+"response to abiotic stimulus",876,4.05,11,0.0625
+"response to hormone stimulus",751,3.47,10,0.0625
+"homeostasis of number of cells",196,0.905,5,0.0625
+"regulation of molecular function",2250,10.4,20,0.0625
+"apoptotic process",2130,9.83,19,0.0656
+"hemopoiesis",640,2.96,9,0.0656
+"negative regulation of myeloid cell differentiation",60,0.277,3,0.0656
+"negative regulation of cellular process",4110,19,30,0.0656
+"gland development",303,1.4,6,0.0656
+"apoptotic process",2130,9.83,19,0.0656
+"programmed cell death",2160,9.96,19,0.0712
+"regulation of protein metabolic process",1820,8.43,17,0.0712
+"transforming growth factor beta receptor signaling pathway",221,1.02,5,0.0759
+"regulation of growth",548,2.53,8,0.0759
+"regulation of apoptotic process",1540,7.09,15,0.0759
+"hematopoietic or lymphoid organ development",679,3.14,9,0.0767
+"regulation of programmed cell death",1550,7.17,15,0.0771
+"negative regulation of biological process",4590,21.2,32,0.0771
+"positive regulation of developmental process",817,3.77,10,0.0771
+"response to nutrient",147,0.679,4,0.0862
+"regulation of cell migration",456,2.11,7,0.0863
+"growth",839,3.88,10,0.0863
+"intracellular protein kinase cascade",1140,5.25,12,0.0914
+"cell-cell junction assembly",78,0.36,3,0.0918
+"I-kappaB kinase/NF-kappaB cascade",246,1.14,5,0.0918
+"immune system development",722,3.34,9,0.0919
+"regulation of response to stimulus",3360,15.5,25,0.0976
+"female pregnancy",162,0.748,4,0.101
+"apoptotic mitochondrial changes",83,0.383,3,0.101
+"positive regulation of cell migration",263,1.21,5,0.109
+"response to steroid hormone stimulus",267,1.23,5,0.112
+"neuron apoptotic process",169,0.781,4,0.112
+"positive regulation of cellular process",4780,22.1,32,0.112
+"regulation of transferase activity",768,3.55,9,0.118
+"nucleocytoplasmic transport",388,1.79,6,0.12
+"positive regulation of transferase activity",510,2.36,7,0.12
+"nuclear transport",392,1.81,6,0.123
+"negative regulation of signal transduction",790,3.65,9,0.129
+"regulation of developmental process",1880,8.67,16,0.129
+"positive regulation of response to stimulus",1550,7.17,14,0.13
+"regulation of catalytic activity",1730,8,15,0.139
+"anatomical structure morphogenesis",2820,13,21,0.149
+"regulation of transforming growth factor beta receptor signaling pathway",107,0.494,3,0.149
+"intracellular signal transduction",2450,11.3,19,0.149
+"negative regulation of growth",197,0.91,4,0.149
+"negative regulation of response to stimulus",967,4.47,10,0.149
+"positive regulation of sequence-specific DNA binding transcription factor activity",198,0.915,4,0.149
+"macromolecular complex assembly",1120,5.18,11,0.149
+"regulation of cell differentiation",1290,5.95,12,0.156
+"regulation of MAPK cascade",559,2.58,7,0.157
+"regulation of anatomical structure morphogenesis",702,3.24,8,0.159
+"cellular response to stress",1620,7.51,14,0.159
+"interphase of mitotic cell cycle",435,2.01,6,0.159
+"positive regulation of cell differentiation",571,2.64,7,0.163
+"interphase",443,2.05,6,0.163
+"positive regulation of NF-kappaB transcription factor activity",115,0.531,3,0.163
+"regulation of I-kappaB kinase/NF-kappaB cascade",210,0.97,4,0.163
+"regulation of homeostatic process",324,1.5,5,0.166
+"regulation of metabolic process",6920,32,41,0.17
+"transcription initiation from RNA polymerase II promoter",219,1.01,4,0.178
+"reproduction",1860,8.57,15,0.189
+"regulation of immune system process",1190,5.51,11,0.189
+"regulation of kinase activity",743,3.43,8,0.192
+"positive regulation of biological process",5500,25.4,34,0.193
+"response to drug",344,1.59,5,0.193
+"response to radiation",345,1.59,5,0.193
+"response to toxin",130,0.601,3,0.196
+"multi-organism process",1710,7.89,14,0.196
+"regulation of cellular protein metabolic process",1560,7.2,13,0.209
+"positive regulation of catalytic activity",1070,4.94,10,0.209
+"protein oligomerization",357,1.65,5,0.209
+"response to hypoxia",245,1.13,4,0.214
+"reproductive process",1740,8.06,14,0.214
+"nuclear export",139,0.642,3,0.214
+"positive regulation of protein metabolic process",1080,5,10,0.214
+"anatomical structure formation involved in morphogenesis",2090,9.65,16,0.214
+"double-strand break repair",139,0.642,3,0.214
+"DNA recombination",247,1.14,4,0.216
+"positive regulation of MAPK cascade",368,1.7,5,0.216
+"regulation of biological quality",3400,15.7,23,0.218
+"protein-DNA complex assembly",143,0.661,3,0.22
+"regulation of multicellular organismal process",2480,11.5,18,0.224
+"DNA-dependent transcription, initiation",257,1.19,4,0.235
+"activation of protein kinase activity",260,1.2,4,0.237
+"regulation of neuron apoptotic process",150,0.693,3,0.237
+"positive regulation of I-kappaB kinase/NF-kappaB cascade",150,0.693,3,0.237
+"organ morphogenesis",966,4.46,9,0.24
+"MAPK cascade",665,3.07,7,0.24
+"transmembrane receptor protein serine/threonine kinase signaling pathway",388,1.79,5,0.24
+"protein maturation",153,0.707,3,0.241
+"negative regulation of developmental process",674,3.11,7,0.25
+"mitochondrial transport",159,0.734,3,0.25
+"negative regulation of metabolic process",1820,8.42,14,0.25
+"protein autoprocessing",8,0.037,1,0.25
+"negative regulation of transcription, DNA-dependent",987,4.56,9,0.25
+"negative regulation of transcription, DNA-dependent",987,4.56,9,0.25
+"cell-matrix adhesion",159,0.734,3,0.25
+"negative regulation of protein metabolic process",540,2.49,6,0.254
+"positive regulation of nucleobase-containing compound metabolic process",1490,6.88,12,0.255
+"negative regulation of cellular metabolic process",1660,7.69,13,0.256
+"epidermal growth factor receptor signaling pathway",167,0.771,3,0.265
+"phosphorylation",1680,7.75,13,0.265
+"homeostatic process",1510,6.96,12,0.265
+"regulation of protein kinase activity",698,3.22,7,0.265
+"intracellular transport",1510,6.97,12,0.265
+"protein complex assembly",861,3.98,8,0.274
+"cellular protein metabolic process",4540,21,28,0.274
+"protein metabolic process",5570,25.7,33,0.274
+"protein dephosphorylation",172,0.795,3,0.275
+"negative regulation of RNA metabolic process",1020,4.73,9,0.275
+"negative regulation of phosphate metabolic process",293,1.35,4,0.278
+"tissue morphogenesis",566,2.61,6,0.278
+"interaction with host",426,1.97,5,0.278
+"response to nutrient levels",295,1.36,4,0.279
+"axonogenesis",578,2.67,6,0.293
+"negative regulation of binding",78,0.36,2,0.293
+"morphogenesis of an epithelium",440,2.03,5,0.299
+"mitochondrion organization",306,1.41,4,0.299
+"cell migration",1050,4.87,9,0.299
+"negative regulation of cellular biosynthetic process",1220,5.64,10,0.299
+"cellular component disassembly",310,1.43,4,0.309
+"response to biotic stimulus",749,3.46,7,0.31
+"viral reproductive process",597,2.76,6,0.31
+"macromolecular complex disassembly",189,0.873,3,0.31
+"regulation of phosphorylation",1070,4.93,9,0.31
+"regulation of binding",189,0.873,3,0.31
+"negative regulation of biosynthetic process",1240,5.74,10,0.312
+"response to extracellular stimulus",320,1.48,4,0.324
+"aging",197,0.91,3,0.326
+"negative regulation of cellular protein metabolic process",463,2.14,5,0.326
+"positive regulation of transcription, DNA-dependent",1260,5.81,10,0.326
+"NLS-bearing substrate import into nucleus",14,0.0647,1,0.326
+"positive regulation of transcription, DNA-dependent",1260,5.81,10,0.326
+"rhythmic process",200,0.924,3,0.336
+"ovulation cycle",92,0.425,2,0.346
+"positive regulation of angiogenesis",94,0.434,2,0.357
+"intracellular protein transport",793,3.66,7,0.362
+"nervous system development",2190,10.1,15,0.362
+"cell surface receptor signaling pathway",3340,15.4,21,0.362
+"DNA replication",346,1.6,4,0.367
+"protein phosphorylation",1480,6.86,11,0.367
+"response to stress",4150,19.2,25,0.367
+"heart development",487,2.25,5,0.367
+"positive regulation of cellular protein metabolic process",968,4.47,8,0.367
+"tube morphogenesis",347,1.6,4,0.367
+"negative regulation of nucleobase-containing compound metabolic process",1130,5.22,9,0.367
+"positive regulation of transcription from RNA polymerase II promoter",800,3.7,7,0.367
+"neuron projection development",816,3.77,7,0.386
+"regulation of protein phosphorylation",987,4.56,8,0.388
+"response to external stimulus",1510,6.98,11,0.388
+"tube development",506,2.34,5,0.388
+"regulation of axonogenesis",104,0.48,2,0.388
+"positive regulation of DNA metabolic process",105,0.485,2,0.388
+"positive regulation of RNA metabolic process",1330,6.16,10,0.388
+"calcium-mediated signaling",107,0.494,2,0.399
+"regulation of translation",228,1.05,3,0.401
+"response to light stimulus",229,1.06,3,0.402
+"negative regulation of cellular component organization",370,1.71,4,0.41
+"positive regulation of protein phosphorylation",681,3.15,6,0.411
+"nucleosome assembly",112,0.517,2,0.411
+"chromatin remodeling",111,0.513,2,0.411
+"response to UV",112,0.517,2,0.411
+"regulation of DNA metabolic process",235,1.09,3,0.411
+"regulation of sequence-specific DNA binding transcription factor activity",372,1.72,4,0.411
+"cellular macromolecule catabolic process",849,3.92,7,0.412
+"positive regulation of cell cycle",113,0.522,2,0.412
+"regulation of cellular metabolic process",6120,28.3,34,0.414
+"vitamin metabolic process",115,0.531,2,0.42
+"protein folding",241,1.11,3,0.422
+"cell-substrate adhesion",241,1.11,3,0.422
+"multicellular organismal development",5720,26.4,32,0.423
+"response to bacterium",385,1.78,4,0.423
+"positive regulation of phosphorylation",697,3.22,6,0.423
+"regulation of gene expression",4480,20.7,26,0.423
+"wound healing",700,3.23,6,0.423
+"negative regulation of cell differentiation",540,2.49,5,0.423
+"negative regulation of phosphorylation",246,1.14,3,0.426
+"protein targeting",545,2.52,5,0.431
+"regulation of transport",1220,5.65,9,0.438
+"immune system process",2720,12.6,17,0.439
+"negative regulation of transcription from RNA polymerase II promoter",552,2.55,5,0.442
+"negative regulation of hydrolase activity",253,1.17,3,0.442
+"response to other organism",716,3.31,6,0.442
+"regulation of transcription from RNA polymerase II promoter",1610,7.43,11,0.444
+"RNA catabolic process",256,1.18,3,0.444
+"brain development",559,2.58,5,0.444
+"macromolecule catabolic process",1070,4.95,8,0.444
+"macromolecule catabolic process",1070,4.95,8,0.444
+"regulation of protein modification process",1250,5.76,9,0.444
+"chromatin assembly",128,0.591,2,0.444
+"system development",4950,22.9,28,0.444
+"positive regulation of cellular component organization",560,2.59,5,0.444
+"regulation of cell cycle",886,4.09,7,0.444
+"apoptotic DNA fragmentation",27,0.125,1,0.444
+"stress-activated protein kinase signaling cascade",257,1.19,3,0.444
+"apoptotic signaling pathway",261,1.21,3,0.444
+"inactivation of MAPK activity",28,0.129,1,0.447
+"negative regulation of catalytic activity",568,2.62,5,0.447
+"positive regulation of transport",570,2.63,5,0.449
+"heterophilic cell-cell adhesion",29,0.134,1,0.456
+"peptidyl-amino acid modification",739,3.41,6,0.456
+"intrinsic apoptotic signaling pathway",135,0.624,2,0.465
+"protein import",272,1.26,3,0.471
+"protein processing",140,0.647,2,0.489
+"cell development",1840,8.52,12,0.49
+"receptor-mediated endocytosis",142,0.656,2,0.496
+"cell cycle checkpoint",281,1.3,3,0.496
+"response to carbohydrate stimulus",143,0.661,2,0.497
+"neuron development",945,4.37,7,0.505
+"generation of neurons",1300,6.02,9,0.505
+"locomotory behavior",147,0.679,2,0.513
+"response to wounding",1310,6.07,9,0.513
+"apoptotic nuclear changes",35,0.162,1,0.513
+"regulation of intracellular transport",290,1.34,3,0.513
+"phosphatidylinositol-mediated signaling",148,0.684,2,0.513
+"central nervous system development",784,3.62,6,0.518
+"regulation of JNK cascade",150,0.693,2,0.518
+"mitotic cell cycle",968,4.47,7,0.522
+"myeloid leukocyte differentiation",153,0.707,2,0.522
+"chromatin assembly or disassembly",152,0.702,2,0.522
+"dephosphorylation",295,1.36,3,0.522
+"negative regulation of DNA binding",37,0.171,1,0.522
+"positive regulation of phosphate metabolic process",789,3.64,6,0.522
+"regulation of cellular component organization",1520,7.04,10,0.532
+"regulation of cell growth",302,1.4,3,0.536
+"viral reproduction",803,3.71,6,0.54
+"protein modification process",3290,15.2,19,0.54
+"organ development",3290,15.2,19,0.54
+"regulation of membrane potential",306,1.41,3,0.542
+"heme biosynthetic process",40,0.185,1,0.544
+"transcription from RNA polymerase II promoter",1930,8.91,12,0.546
+"embryo implantation",41,0.189,1,0.546
+"cellular membrane organization",471,2.18,4,0.546
+"leukocyte migration",309,1.43,3,0.546
+"reciprocal meiotic recombination",41,0.189,1,0.546
+"mRNA metabolic process",817,3.77,6,0.549
+"protein catabolic process",644,2.97,5,0.551
+"second-messenger-mediated signaling",166,0.767,2,0.556
+"neuron differentiation",1190,5.48,8,0.556
+"protein complex disassembly",167,0.771,2,0.556
+"positive regulation of multicellular organismal process",649,3,5,0.556
+"cell morphogenesis involved in differentiation",827,3.82,6,0.558
+"regulation of angiogenesis",169,0.781,2,0.562
+"sensory organ development",485,2.24,4,0.562
+"focal adhesion assembly",44,0.203,1,0.562
+"anatomical structure development",5830,26.9,31,0.562
+"DNA packaging",172,0.795,2,0.564
+"regulation of nucleocytoplasmic transport",172,0.795,2,0.564
+"interleukin-8 production",45,0.208,1,0.564
+"neurogenesis",1390,6.43,9,0.565
+"nucleobase-containing compound transport",175,0.808,2,0.575
+"gliogenesis",176,0.813,2,0.578
+"protein export from nucleus",48,0.222,1,0.589
+"pattern specification process",503,2.32,4,0.595
+"epithelial cell differentiation",339,1.57,3,0.602
+"cell division",507,2.34,4,0.602
+"intrinsic apoptotic signaling pathway in response to DNA damage",51,0.236,1,0.608
+"positive regulation of protein modification process",867,4,6,0.608
+"heme metabolic process",51,0.236,1,0.608
+"T cell differentiation",186,0.859,2,0.608
+"chemical homeostasis",1050,4.87,7,0.608
+"DNA metabolic process",1240,5.75,8,0.612
+"translation",698,3.22,5,0.614
+"insulin receptor signaling pathway",192,0.887,2,0.614
+"regulation of cellular component size",192,0.887,2,0.614
+"regulation of tyrosine phosphorylation of STAT protein",53,0.245,1,0.614
+"cellular protein catabolic process",518,2.39,4,0.614
+"negative regulation of cell cycle",520,2.4,4,0.614
+"protein autophosphorylation",192,0.887,2,0.614
+"negative regulation of transferase activity",189,0.873,2,0.614
+"maintenance of location",192,0.887,2,0.614
+"macromolecule modification",3430,15.8,19,0.614
+"cell cycle phase",1070,4.96,7,0.617
+"striated muscle tissue development",354,1.64,3,0.617
+"establishment of protein localization",1460,6.72,9,0.618
+"activation of phospholipase C activity",56,0.259,1,0.621
+"positive regulation of translation",56,0.259,1,0.621
+"regulation of lymphocyte activation",360,1.66,3,0.627
+"cell cycle",1860,8.59,11,0.634
+"cellular defense response",60,0.277,1,0.645
+"nucleus organization",60,0.277,1,0.645
+"JNK cascade",204,0.942,2,0.645
+"tyrosine phosphorylation of STAT protein",60,0.277,1,0.645
+"hormone metabolic process",203,0.938,2,0.645
+"aerobic respiration",61,0.282,1,0.652
+"G1/S transition of mitotic cell cycle",209,0.965,2,0.663
+"positive regulation of immune system process",739,3.41,5,0.67
+"positive regulation of cytokine biosynthetic process",66,0.305,1,0.691
+"inflammatory response",569,2.63,4,0.694
+"pigment biosynthetic process",67,0.309,1,0.694
+"establishment of localization in cell",2320,10.7,13,0.694
+"muscle organ development",389,1.8,3,0.694
+"activation of immune response",399,1.84,3,0.7
+"protein targeting to mitochondrion",71,0.328,1,0.7
+"signal transduction",6310,29.1,32,0.7
+"axon guidance",394,1.82,3,0.7
+"negative regulation of translation",70,0.323,1,0.7
+"negative regulation of MAP kinase activity",69,0.319,1,0.7
+"embryonic morphogenesis",581,2.68,4,0.7
+"regulation of DNA binding",70,0.323,1,0.7
+"protein homooligomerization",226,1.04,2,0.7
+"regulation of transcription, DNA-dependent",3770,17.4,20,0.7
+"regulation of transcription, DNA-dependent",3770,17.4,20,0.7
+"regulation of transcription, DNA-dependent",3770,17.4,20,0.7
+"DNA catabolic process",72,0.333,1,0.702
+"protein import into nucleus",228,1.05,2,0.702
+"peptidyl-tyrosine phosphorylation",228,1.05,2,0.702
+"leukocyte differentiation",404,1.87,3,0.706
+"peptidyl-tyrosine modification",230,1.06,2,0.706
+"regulation of organelle organization",589,2.72,4,0.707
+"body fluid secretion",74,0.342,1,0.708
+"nuclear import",232,1.07,2,0.708
+"negative regulation of multicellular organismal process",410,1.89,3,0.714
+"lymphocyte activation",601,2.78,4,0.729
+"cellular component disassembly involved in execution phase of apoptosis",78,0.36,1,0.733
+"viral infectious cycle",241,1.11,2,0.734
+"positive regulation of binding",79,0.365,1,0.734
+"protein O-linked glycosylation",79,0.365,1,0.734
+"extracellular structure organization",242,1.12,2,0.734
+"regulation of JAK-STAT cascade",80,0.37,1,0.737
+"angiogenesis",426,1.97,3,0.744
+"regulation of lipid metabolic process",246,1.14,2,0.744
+"cell cycle arrest",428,1.98,3,0.747
+"protein transport",1400,6.47,8,0.749
+"actin filament bundle assembly",83,0.383,1,0.749
+"pigment metabolic process",84,0.388,1,0.75
+"positive regulation of lymphocyte activation",250,1.15,2,0.75
+"protein tetramerization",84,0.388,1,0.75
+"RNA export from nucleus",86,0.397,1,0.756
+"cell cycle process",1420,6.54,8,0.756
+"cell fate commitment",254,1.17,2,0.756
+"ion homeostasis",818,3.78,5,0.756
+"regulation of nucleobase-containing compound metabolic process",4540,21,23,0.767
+"lymphocyte differentiation",260,1.2,2,0.767
+"regulation of neurogenesis",444,2.05,3,0.767
+"regulation of RNA metabolic process",3900,18,20,0.767
+"regulation of cyclin-dependent protein kinase activity",89,0.411,1,0.767
+"activation of cysteine-type endopeptidase activity involved in apoptotic process",91,0.42,1,0.774
+"meiosis I",91,0.42,1,0.774
+"circadian rhythm",91,0.42,1,0.774
+"regulation of hydrolase activity",843,3.89,5,0.783
+"membrane fusion",93,0.43,1,0.784
+"female gamete generation",94,0.434,1,0.788
+"intracellular receptor mediated signaling pathway",270,1.25,2,0.79
+"skeletal system development",459,2.12,3,0.79
+"regulation of response to external stimulus",461,2.13,3,0.791
+"regulation of MAP kinase activity",272,1.26,2,0.791
+"positive regulation of defense response",273,1.26,2,0.792
+"Ras protein signal transduction",274,1.27,2,0.794
+"response to DNA damage stimulus",862,3.98,5,0.803
+"tissue development",1680,7.78,9,0.816
+"maintenance of protein location in cell",101,0.467,1,0.816
+"lipid homeostasis",103,0.476,1,0.825
+"cellular homeostasis",883,4.08,5,0.831
+"regulation of cytokine biosynthetic process",105,0.485,1,0.831
+"regulation of body fluid levels",680,3.14,4,0.831
+"embryo development",1080,5.01,6,0.831
+"positive regulation of immune response",487,2.25,3,0.839
+"regulation of DNA replication",110,0.508,1,0.855
+"calcium ion transport",300,1.39,2,0.855
+"male gonad development",112,0.517,1,0.855
+"response to ionizing radiation",112,0.517,1,0.855
+"maintenance of location in cell",112,0.517,1,0.855
+"ER-nucleus signaling pathway",111,0.513,1,0.855
+"intracellular steroid hormone receptor signaling pathway",113,0.522,1,0.859
+"regulation of protein stability",114,0.527,1,0.863
+"leukocyte activation",707,3.27,4,0.865
+"maintenance of protein location",116,0.536,1,0.87
+"cytokinesis",120,0.554,1,0.872
+"Rho protein signal transduction",121,0.559,1,0.872
+"chromatin modification",512,2.37,3,0.872
+"DNA damage response, signal transduction by p53 class mediator",117,0.54,1,0.872
+"regulation of defense response",519,2.4,3,0.872
+"regulation of chromosome organization",122,0.564,1,0.872
+"cytokine biosynthetic process",118,0.545,1,0.872
+"cytokine metabolic process",121,0.559,1,0.872
+"positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",118,0.545,1,0.872
+"negative regulation of sequence-specific DNA binding transcription factor activity",121,0.559,1,0.872
+"positive regulation of epithelial cell proliferation",120,0.554,1,0.872
+"regulation of viral reproduction",122,0.564,1,0.872
+"negative regulation of transport",318,1.47,2,0.872
+"JAK-STAT cascade",121,0.559,1,0.872
+"DNA-dependent DNA replication",121,0.559,1,0.872
+"establishment or maintenance of cell polarity",123,0.568,1,0.873
+"lipoprotein metabolic process",124,0.573,1,0.874
+"ribonucleoprotein complex assembly",124,0.573,1,0.874
+"regulation of muscle contraction",127,0.587,1,0.875
+"response to virus",325,1.5,2,0.875
+"fatty acid oxidation",125,0.577,1,0.875
+"regulation of cell morphogenesis",325,1.5,2,0.875
+"cellular response to nutrient levels",126,0.582,1,0.875
+"positive regulation of cell adhesion",127,0.587,1,0.875
+"tissue remodeling",126,0.582,1,0.875
+"regulation of endocytosis",128,0.591,1,0.878
+"signal transduction in response to DNA damage",129,0.596,1,0.881
+"activation of MAPK activity",131,0.605,1,0.885
+"DNA repair",538,2.49,3,0.885
+"cellular localization",2650,12.3,13,0.885
+"negative regulation of cell migration",133,0.614,1,0.892
+"positive regulation of peptidyl-tyrosine phosphorylation",134,0.619,1,0.895
+"macromolecule localization",2240,10.4,11,0.895
+"regulation of protein import into nucleus",137,0.633,1,0.905
+"DNA damage checkpoint",143,0.661,1,0.927
+"S phase of mitotic cell cycle",144,0.665,1,0.927
+"regionalization",353,1.63,2,0.927
+"blood coagulation",564,2.61,3,0.927
+"protein localization",1850,8.53,9,0.927
+"coagulation",568,2.62,3,0.93
+"hemostasis",570,2.63,3,0.932
+"mitotic cell cycle checkpoint",149,0.688,1,0.933
+"regulation of heart contraction",148,0.684,1,0.933
+"steroid metabolic process",361,1.67,2,0.933
+"leukocyte chemotaxis",150,0.693,1,0.933
+"cellular response to extracellular stimulus",149,0.688,1,0.933
+"muscle cell differentiation",363,1.68,2,0.933
+"G2/M transition of mitotic cell cycle",150,0.693,1,0.933
+"actin filament-based process",577,2.67,3,0.933
+"DNA integrity checkpoint",152,0.702,1,0.937
+"defense response to bacterium",152,0.702,1,0.937
+"S phase",153,0.707,1,0.939
+"protein targeting to membrane",158,0.73,1,0.957
+"small GTPase mediated signal transduction",596,2.75,3,0.957
+"behavior",597,2.76,3,0.957
+"regulation of catabolic process",595,2.75,3,0.957
+"cellular protein complex disassembly",160,0.739,1,0.957
+"endosomal transport",162,0.748,1,0.963
+"learning or memory",166,0.767,1,0.977
+"regulation of action potential",169,0.781,1,0.986
+"regulation of peptidyl-tyrosine phosphorylation",171,0.79,1,0.992
+"defense response",1510,6.97,7,0.999
+"protein polyubiquitination",177,0.818,1,1
+"M phase",671,3.1,2,1
+"RNA splicing, via transesterification reactions",321,1.48,1,1
+"cell activation",960,4.43,4,1
+"cytokine production",576,2.66,1,1
+"regulation of cytokine production",513,2.37,1,1
+"positive regulation of cytokine production",268,1.24,1,1
+"vasculature development",652,3.01,3,1
+"immune effector process",576,2.66,1,1
+"negative regulation of immune system process",207,0.956,1,1
+"system process",2170,10,7,1
+"carbohydrate metabolic process",1040,4.8,2,1
+"glucose metabolic process",290,1.34,1,1
+"organic acid metabolic process",1430,6.6,2,1
+"generation of precursor metabolites and energy",603,2.79,1,1
+"nucleobase-containing compound metabolic process",8180,37.8,29,1
+"nucleobase-containing compound metabolic process",8180,37.8,29,1
+"transcription, DNA-dependent",4830,22.3,20,1
+"RNA processing",890,4.11,2,1
+"translational initiation",205,0.947,1,1
+"proteolysis",1100,5.06,5,1
+"cellular amino acid metabolic process",670,3.09,1,1
+"lipid metabolic process",1730,7.99,5,1
+"fatty acid metabolic process",397,1.83,1,1
+"phospholipid metabolic process",463,2.14,1,1
+"steroid biosynthetic process",183,0.845,1,1
+"nitrogen compound metabolic process",9380,43.3,32,1
+"transport",4830,22.3,20,1
+"ion transport",1340,6.2,3,1
+"cation transport",851,3.93,2,1
+"anion transport",374,1.73,1,1
+"lipid transport",268,1.24,1,1
+"immune response",1430,6.59,6,1
+"organelle organization",2820,13,11,1
+"cytoskeleton organization",980,4.53,3,1
+"actin filament organization",250,1.15,1,1
+"G-protein coupled receptor signaling pathway",779,3.6,1,1
+"Notch signaling pathway",177,0.818,1,1
+"synaptic transmission",765,3.53,3,1
+"gamete generation",543,2.51,2,1
+"regulation of mitotic cell cycle",351,1.62,1,1
+"sensory perception",532,2.46,2,1
+"RNA splicing",478,2.21,1,1
+"epidermis development",319,1.47,1,1
+"lipid biosynthetic process",776,3.58,1,1
+"catabolic process",2560,11.8,10,1
+"biosynthetic process",8090,37.4,31,1
+"macromolecule biosynthetic process",6540,30.2,28,1
+"macromolecule biosynthetic process",6540,30.2,28,1
+"glycoprotein metabolic process",458,2.12,1,1
+"glycoprotein biosynthetic process",393,1.82,1,1
+"energy derivation by oxidation of organic compounds",437,2.02,1,1
+"lipid catabolic process",305,1.41,1,1
+"RNA metabolic process",6010,27.8,24,1
+"protein ubiquitination",658,3.04,3,1
+"covalent chromatin modification",320,1.48,1,1
+"histone modification",312,1.44,1,1
+"cytokine-mediated signaling pathway",374,1.73,1,1
+"transmission of nerve impulse",871,4.02,3,1
+"carboxylic acid metabolic process",1270,5.88,2,1
+"sexual reproduction",645,2.98,2,1
+"ribonucleoprotein complex biogenesis",269,1.24,1,1
+"metal ion transport",631,2.91,2,1
+"cellular cation homeostasis",433,2,2,1
+"cell projection assembly",229,1.06,1,1
+"actin cytoskeleton organization",502,2.32,2,1
+"regulation of cell adhesion",294,1.36,1,1
+"protein modification by small protein conjugation",713,3.29,3,1
+"RNA biosynthetic process",4930,22.8,21,1
+"monocarboxylic acid metabolic process",567,2.62,1,1
+"secretion by cell",831,3.84,1,1
+"regulation of Rho protein signal transduction",177,0.818,1,1
+"T cell activation",432,2,2,1
+"B cell activation",194,0.896,1,1
+"macromolecule metabolic process",12000,55.6,53,1
+"positive regulation of MAP kinase activity",197,0.91,1,1
+"cellular protein complex assembly",343,1.58,1,1
+"cellular lipid catabolic process",188,0.868,1,1
+"cellular catabolic process",2140,9.91,9,1
+"cellular biosynthetic process",7800,36.1,30,1
+"cellular lipid metabolic process",1200,5.56,2,1
+"cellular macromolecule metabolic process",10800,50,48,1
+"cellular carbohydrate metabolic process",259,1.2,1,1
+"innate immune response",638,2.95,3,1
+"development of primary sexual characteristics",246,1.14,1,1
+"cellular respiration",236,1.09,1,1
+"heterocycle metabolic process",8430,38.9,32,1
+"regulation of Ras protein signal transduction",302,1.4,1,1
+"hormone secretion",262,1.21,1,1
+"regulation of hormone secretion",213,0.984,1,1
+"secretion",947,4.37,2,1
+"regulation of immune response",727,3.36,3,1
+"regulation of T cell activation",279,1.29,1,1
+"positive regulation of T cell activation",202,0.933,1,1
+"neurological system process",1480,6.82,5,1
+"regulation of secretion",517,2.39,1,1
+"positive regulation of secretion",246,1.14,1,1
+"regulation of small GTPase mediated signal transduction",444,2.05,1,1
+"cofactor metabolic process",331,1.53,1,1
+"cofactor biosynthetic process",185,0.855,1,1
+"establishment of localization",4910,22.7,20,1
+"chromosome organization",878,4.06,4,1
+"meiotic cell cycle",183,0.845,1,1
+"positive regulation of hydrolase activity",497,2.3,2,1
+"defense response to virus",215,0.993,1,1
+"cellular response to stimulus",8010,37,36,1
+"cation homeostasis",514,2.37,2,1
+"cation transport",851,3.93,2,1
+"transcription, DNA-dependent",4830,22.3,20,1
+"microtubule-based process",516,2.38,1,1
+"cell-cell signaling",1310,6.04,5,1
+"post-translational protein modification",196,0.905,1,1
+"cellular amino acid metabolic process",670,3.09,1,1
+"mRNA processing",551,2.55,1,1
+"generation of a signal involved in cell-cell signaling",393,1.82,1,1
+"cell-cell adhesion",461,2.13,1,1
+"vesicle-mediated transport",1110,5.13,4,1
+"skeletal muscle tissue development",197,0.91,1,1
+"cellular aromatic compound metabolic process",8460,39.1,31,1
+"cellular nitrogen compound biosynthetic process",5610,25.9,24,1
+"chromatin organization",637,2.94,3,1
+"cellular nitrogen compound catabolic process",986,4.55,4,1

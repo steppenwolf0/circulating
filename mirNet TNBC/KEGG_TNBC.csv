@@ -1,0 +1,80 @@
+"Pathway","Total","Expected","Hits","Pval"
+"p53 signaling pathway",68,0.509,6,0.000518
+"Pancreatic cancer",69,0.516,6,0.000518
+"Glioma",65,0.486,6,0.000518
+"Melanoma",68,0.509,6,0.000518
+"Chronic myeloid leukemia",73,0.546,6,0.000576
+"Bladder cancer",29,0.217,4,0.00197
+"Cell cycle",124,0.927,6,0.00821
+"Pathways in cancer",310,2.32,9,0.009
+"Non-small cell lung cancer",52,0.389,4,0.0133
+"Adherens junction",70,0.524,4,0.0368
+"Focal adhesion",200,1.5,6,0.0641
+"Prostate cancer",87,0.651,4,0.068
+"Endocytosis",101,0.755,4,0.107
+"Leukocyte transendothelial migration",108,0.808,4,0.116
+"Bacterial invasion of epithelial cells",56,0.419,3,0.116
+"Vibrio cholerae infection",19,0.142,2,0.116
+"Tight junction",118,0.882,4,0.133
+"Regulation of actin cytoskeleton",182,1.36,5,0.133
+"HTLV-I infection",199,1.49,5,0.163
+"Hypertrophic cardiomyopathy (HCM)",25,0.187,2,0.163
+"Viral myocarditis",26,0.194,2,0.163
+"Thyroid cancer",28,0.209,2,0.179
+"Small cell lung cancer",80,0.598,3,0.201
+"TGF-beta signaling pathway",84,0.628,3,0.218
+"Pathogenic Escherichia coli infection",35,0.262,2,0.24
+"Legionellosis",40,0.299,2,0.296
+"Shigellosis",47,0.351,2,0.383
+"Colorectal cancer",49,0.366,2,0.398
+"RNA degradation",60,0.449,2,0.531
+"Renal cell carcinoma",60,0.449,2,0.531
+"Selenocompound metabolism",12,0.0897,1,0.567
+"Dorso-ventral axis formation",12,0.0897,1,0.567
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",12,0.0897,1,0.567
+"Long-term depression",70,0.524,2,0.611
+"Salmonella infection",72,0.538,2,0.622
+"Dilated cardiomyopathy",78,0.583,2,0.692
+"Progesterone-mediated oocyte maturation",80,0.598,2,0.702
+"MAPK signaling pathway",265,1.98,4,0.743
+"Transcriptional misregulation in cancer",19,0.142,1,0.743
+"ErbB signaling pathway",87,0.651,2,0.745
+"Chemokine signaling pathway",189,1.41,3,0.879
+"African trypanosomiasis",25,0.187,1,0.886
+"Oocyte meiosis",108,0.808,2,0.973
+"Glycine, serine and threonine metabolism",33,0.247,1,1
+"Glycerolipid metabolism",52,0.389,1,1
+"RNA transport",126,0.942,1,1
+"Fanconi anemia pathway",39,0.292,1,1
+"Calcium signaling pathway",177,1.32,1,1
+"Cytokine-cytokine receptor interaction",253,1.89,1,1
+"Protein processing in endoplasmic reticulum",129,0.965,1,1
+"mTOR signaling pathway",45,0.337,1,1
+"Vascular smooth muscle contraction",109,0.815,1,1
+"Wnt signaling pathway",144,1.08,1,1
+"VEGF signaling pathway",76,0.568,1,1
+"Osteoclast differentiation",119,0.89,1,1
+"Cell adhesion molecules (CAMs)",121,0.905,2,1
+"Gap junction",89,0.666,1,1
+"Toll-like receptor signaling pathway",97,0.725,1,1
+"NOD-like receptor signaling pathway",49,0.366,1,1
+"Jak-STAT signaling pathway",99,0.74,1,1
+"Natural killer cell mediated cytotoxicity",138,1.03,1,1
+"Long-term potentiation",70,0.524,1,1
+"Neurotrophin signaling pathway",123,0.92,2,1
+"Serotonergic synapse",88,0.658,1,1
+"Insulin signaling pathway",137,1.02,1,1
+"Endocrine and other factor-regulated calcium reabsorption",36,0.269,1,1
+"Gastric acid secretion",56,0.419,1,1
+"Alcoholism",166,1.24,1,1
+"Epithelial cell signaling in Helicobacter pylori infection",37,0.277,1,1
+"Pertussis",52,0.389,1,1
+"Chagas disease (American trypanosomiasis)",89,0.666,1,1
+"Toxoplasmosis",93,0.696,1,1
+"Tuberculosis",174,1.3,1,1
+"Hepatitis C",100,0.748,1,1
+"Measles",102,0.763,1,1
+"Influenza A",107,0.8,1,1
+"Epstein-Barr virus infection",91,0.681,1,1
+"Endometrial cancer",44,0.329,1,1
+"Acute myeloid leukemia",57,0.426,1,1
